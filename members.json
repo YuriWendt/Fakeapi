@@ -1,0 +1,40 @@
+{
+    "member": [
+        {
+            "id": 1,
+            "name": "Yuri",
+            "game": "Valorant",
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Matsu",
+            "game": "CSGO",
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Bruno",
+            "game": "Valorant",
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Jukk",
+            "game": "Aion",
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Breno",
+            "game": "Valorant",
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Marshal",
+            "game": "League of Legends",
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        }
+    ]
+}
