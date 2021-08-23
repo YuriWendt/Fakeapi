@@ -1,37 +1,66 @@
 {
-    "game": [
-        {
-        "id": 1,
-        "name": "Valorant",
-        "image": "https://ibb.co/7CxZHnS"
-    },
-    {
-        "id": 2,
-        "name": "CSGO",
-        "image": "https://ibb.co/HdNxrxS"
-    },
-    {
-        "id": 3,
-        "name": "League of Legends",
-        "image": "https://i.ibb.co/LzjgZjm/league.png"
-    },
-    {
-        "id": 4,
-        "name": "Aion",
-        "image": "https://ibb.co/7CxZHnS"
-    },
-    {
-        "id": 5,
-        "name": "COD WARZONE",
-        "image": "https://ibb.co/vXTKQG8"
-    }
-],
 
     "member": [
         {
             "id": 1,
             "name": "Yuri",
-             "game": {
+            "nickname": "sor1nha",
+            "game": {
+                "id": 1,
+                "name": "Valorant",
+                "image": "https://i.ibb.co/fFVybkX/valorant.png"
+            },
+            "image": "https://simgbb.com/avatar/HnpPZt301K51.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bruno",
+            "nickname": "trace'11",
+            "game": {
+                "id": 1,
+                "name": "Valorant",
+                "image": "https://i.ibb.co/fFVybkX/valorant.png"
+            },
+            "image": "https://i.ibb.co/vjg4bLz/bng.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Breno",
+            "nickname": "Brenin the God",
+            "game": {
+                "id": 1,
+                "name": "Valorant",
+                "image": "https://ibb.co/7CxZHnS"
+            },
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Rodrigo",
+            "nickname": "Matsu",
+            "game": {
+                "id": 2,
+                "name": "CSGO",
+                "image": "https://i.ibb.co/5FYn5n0/csgo.png"
+            },
+            "image": "https://i.ibb.co/94jXDJk/matsu.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Felipe",
+            "nickname": "Jukk",
+            "game": {
+                "id": 1,
+                "name": "AION",
+                "image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
+            },
+            "image": "https://i.ibb.co/3WTTtqx/jukk.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Caio",
+            "nickname": "napz",
+            "game": {
                 "id": 1,
                 "name": "Valorant",
                 "image": "https://i.ibb.co/fFVybkX/valorant.png"
@@ -39,34 +68,81 @@
             "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
         },
         {
-            "id": 2,
-            "name": "Matsu",
-            "game": "CSGO",
-            "image": "https://i.ibb.co/94jXDJk/matsu.jpg"
+            "id": 7,
+            "name": "Gabriel",
+            "nickname": "Marshall",
+            "game": {
+                "id": 1,
+                "name": "League of Legends",
+                "image": "https://i.ibb.co/LzjgZjm/league.png"
+            },
+            "image": "https://i.ibb.co/bNFpWMh/marshal.jpg"
         },
         {
-            "id": 3,
-            "name": "Bruno",
-            "game": "Valorant",
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "id": 8,
+            "name": "Kauan",
+            "nickname": "Kauanzera",
+            "game": {
+                "id": 1,
+                "name": "COD WARZONE",
+                "image": "https://i.ibb.co/PDPf9n8/cod.png"
+            },
+            "image": "https://i.ibb.co/Pzh0GCt/kauan.jpg"
         },
         {
-            "id": 4,
-            "name": "Jukk",
-            "game": "Aion",
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "id": 9,
+            "name": "Jader",
+            "nickname": "Jaderzin",
+            "game": {
+                "id": 1,
+                "name": "AION",
+                "image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
+            },
+            "image": "https://i.ibb.co/VTZ36fr/jader.jpg"
         },
         {
-            "id": 5,
-            "name": "Breno",
-            "game": "Valorant",
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "id": 10,
+            "name": "Vitor",
+            "nickname": "Vitao",
+            "game": {
+                "id": 1,
+                "name": "COD WARZONE",
+                "image": "https://i.ibb.co/PDPf9n8/cod.png"
+            },
+            "image": "https://i.ibb.co/1fbxn2C/vitao.jpg"
         },
         {
-            "id": 6,
-            "name": "Marshal",
-            "game": "League of Legends",
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "id": 11,
+            "name": "Luis",
+            "nickname": "Todd",
+            "game": {
+                "id": 1,
+                "name": "COD WARZONE",
+                "image": "https://i.ibb.co/PDPf9n8/cod.png"
+            },
+            "image": "https://i.ibb.co/vDxmRM2/todd.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Gabriel",
+            "nickname": "Sozo",
+            "game": {
+                "id": 1,
+                "name": "League of Legends",
+                "image": "https://i.ibb.co/LzjgZjm/league.png"
+            },
+            "image": "https://i.ibb.co/whXtMLW/sozo.jpg"
+        },
+        {
+            "id": 13,
+            "name": "João",
+            "nickname": "Pedrosa",
+            "game": {
+                "id": 2,
+                "name": "CSGO",
+                "image": "https://i.ibb.co/5FYn5n0/csgo.png"
+            },
+            "image": "https://i.ibb.co/cQSyjwD/pedrosa.jpg"
         }
     ]
 }
