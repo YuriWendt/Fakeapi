@@ -1,4 +1,32 @@
 {
+    "game": [
+        {
+        "id": 1,
+        "name": "Valorant",
+        "image": "https://ibb.co/7CxZHnS"
+    },
+    {
+        "id": 2,
+        "name": "CSGO",
+        "image": "https://ibb.co/HdNxrxS"
+    },
+    {
+        "id": 3,
+        "name": "League of Legends",
+        "image": "https://ibb.co/QFSHKSL"
+    },
+    {
+        "id": 4,
+        "name": "Aion",
+        "image": "https://ibb.co/7CxZHnS"
+    },
+    {
+        "id": 5,
+        "name": "COD WARZONE",
+        "image": "https://ibb.co/vXTKQG8"
+    }
+],
+
     "member": [
         {
             "id": 1,
@@ -10,7 +38,7 @@
             "id": 2,
             "name": "Matsu",
             "game": "CSGO",
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "image": "https://ibb.co/QHGBgZ3"
         },
         {
             "id": 3,
