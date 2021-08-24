@@ -32,7 +32,7 @@
                 "name": "Valorant",
                 "image": "https://ibb.co/7CxZHnS"
             },
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "image": "https://i.ibb.co/Nn0QmNN/breno.jpg"
         },
         {
             "id": 4,
@@ -50,7 +50,7 @@
             "name": "Felipe",
             "nickname": "Jukk",
             "game": {
-                "id": 1,
+                "id": 5,
                 "name": "AION",
                 "image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
             },
@@ -70,9 +70,9 @@
         {
             "id": 7,
             "name": "Gabriel",
-            "nickname": "Marshall",
+            "nickname": "Marshal",
             "game": {
-                "id": 1,
+                "id": 3,
                 "name": "League of Legends",
                 "image": "https://i.ibb.co/LzjgZjm/league.png"
             },
@@ -83,7 +83,7 @@
             "name": "Kauan",
             "nickname": "Kauanzera",
             "game": {
-                "id": 1,
+                "id": 4,
                 "name": "COD WARZONE",
                 "image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
@@ -94,7 +94,7 @@
             "name": "Jader",
             "nickname": "Jaderzin",
             "game": {
-                "id": 1,
+                "id": 5,
                 "name": "AION",
                 "image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
             },
@@ -105,7 +105,7 @@
             "name": "Vitor",
             "nickname": "Vitao",
             "game": {
-                "id": 1,
+                "id": 4,
                 "name": "COD WARZONE",
                 "image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
@@ -116,7 +116,7 @@
             "name": "Luis",
             "nickname": "Todd",
             "game": {
-                "id": 1,
+                "id": 4,
                 "name": "COD WARZONE",
                 "image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
@@ -127,7 +127,7 @@
             "name": "Gabriel",
             "nickname": "Sozo",
             "game": {
-                "id": 1,
+                "id": 3,
                 "name": "League of Legends",
                 "image": "https://i.ibb.co/LzjgZjm/league.png"
             },
@@ -143,6 +143,17 @@
                 "image": "https://i.ibb.co/5FYn5n0/csgo.png"
             },
             "image": "https://i.ibb.co/cQSyjwD/pedrosa.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Felix",
+            "nickname": "Fellzera",
+            "game": {
+                "id": 1,
+                "name": "Valorant",
+                "image": "https://i.ibb.co/fFVybkX/valorant.png"
+            },
+            "image": "https://i.ibb.co/FmYDhgB/fell.jpg"
         }
     ]
 }
