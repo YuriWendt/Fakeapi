@@ -5,14 +5,14 @@
             "id": 1,
             "name": "Yuri",
             "nickname": "sor1nha",
-            "birthday": "28-05-1998",
+            "birthday": "28_05_1998",
             "person": {
-                "person-name": "Luffy",
-                "person-image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "person_name": "Luffy",
+                "person_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
             },
             "game": {
-                "game-name": "Valorant",
-                "game-image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "Valorant",
+                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
             "image": "https://simgbb.com/avatar/HnpPZt301K51.jpg"
         },
@@ -21,8 +21,8 @@
             "name": "Bruno",
             "nickname": "trace'11",
             "game": {
-                "game-name": "Valorant",
-                "game-image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "Valorant",
+                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
             "image": "https://i.ibb.co/vjg4bLz/bng.jpg"
         },
@@ -31,8 +31,8 @@
             "name": "Breno",
             "nickname": "Brenin the God",
             "game": {
-                "game-name": "Valorant",
-                "game-image": "https://ibb.co/7CxZHnS"
+                "game_name": "Valorant",
+                "game_image": "https://ibb.co/7CxZHnS"
             },
             "image": "https://i.ibb.co/Nn0QmNN/breno.jpg"
         },
@@ -41,8 +41,8 @@
             "name": "Rodrigo",
             "nickname": "Matsu",
             "game": {
-                "game-name": "CSGO",
-                "game-image": "https://i.ibb.co/5FYn5n0/csgo.png"
+                "game_name": "CSGO",
+                "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
             },
             "image": "https://i.ibb.co/94jXDJk/matsu.jpg"
         },
@@ -51,8 +51,8 @@
             "name": "Felipe",
             "nickname": "Jukk",
             "game": {
-                "game-name": "AION",
-                "game-image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
+                "game_name": "AION",
+                "game_image": "https://i.ibb.co/jWJ8wWH/Aion_logo.png"
             },
             "image": "https://i.ibb.co/3WTTtqx/jukk.jpg"
         },
@@ -61,18 +61,18 @@
             "name": "Caio",
             "nickname": "napz",
             "game": {
-                "game-name": "Valorant",
-                "game-image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "Valorant",
+                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67-4400-4efd-b654-8678622526d1/md.jpg"
+            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67_4400_4efd_b654_8678622526d1/md.jpg"
         },
         {
             "id": 7,
             "name": "Gabriel",
             "nickname": "Marshal",
             "game": {
-                "game-name": "League of Legends",
-                "game-image": "https://i.ibb.co/LzjgZjm/league.png"
+                "game_name": "League of Legends",
+                "game_image": "https://i.ibb.co/LzjgZjm/league.png"
             },
             "image": "https://i.ibb.co/bNFpWMh/marshal.jpg"
         },
@@ -81,8 +81,8 @@
             "name": "Kauan",
             "nickname": "Kauanzera",
             "game": {
-                "game-name": "COD WARZONE",
-                "game-image": "https://i.ibb.co/PDPf9n8/cod.png"
+                "game_name": "COD WARZONE",
+                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
             "image": "https://i.ibb.co/Pzh0GCt/kauan.jpg"
         },
@@ -91,8 +91,8 @@
             "name": "Jader",
             "nickname": "Jaderzin",
             "game": {
-                "game-name": "AION",
-                "game-image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
+                "game_name": "AION",
+                "game_image": "https://i.ibb.co/jWJ8wWH/Aion_logo.png"
             },
             "image": "https://i.ibb.co/VTZ36fr/jader.jpg"
         },
@@ -101,8 +101,8 @@
             "name": "Vitor",
             "nickname": "Vitao",
             "game": {
-                "game-name": "COD WARZONE",
-                "game-image": "https://i.ibb.co/PDPf9n8/cod.png"
+                "game_name": "COD WARZONE",
+                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
             "image": "https://i.ibb.co/1fbxn2C/vitao.jpg"
         },
@@ -111,8 +111,8 @@
             "name": "Luis",
             "nickname": "Todd",
             "game": {
-                "game-name": "COD WARZONE",
-                "game-image": "https://i.ibb.co/PDPf9n8/cod.png"
+                "game_name": "COD WARZONE",
+                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
             "image": "https://i.ibb.co/vDxmRM2/todd.jpg"
         },
@@ -121,8 +121,8 @@
             "name": "Gabriel",
             "nickname": "Sozo",
             "game": {
-                "game-name": "League of Legends",
-                "game-image": "https://i.ibb.co/LzjgZjm/league.png"
+                "game_name": "League of Legends",
+                "game_image": "https://i.ibb.co/LzjgZjm/league.png"
             },
             "image": "https://i.ibb.co/whXtMLW/sozo.jpg"
         },
@@ -131,8 +131,8 @@
             "name": "João",
             "nickname": "Pedrosa",
             "game": {
-                "game-name": "CSGO",
-                "game-image": "https://i.ibb.co/5FYn5n0/csgo.png"
+                "game_name": "CSGO",
+                "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
             },
             "image": "https://i.ibb.co/cQSyjwD/pedrosa.jpg"
         },
@@ -141,8 +141,8 @@
             "name": "Felix",
             "nickname": "Fellzera",
             "game": {
-                "game-name": "Valorant",
-                "game-image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "Valorant",
+                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
             "image": "https://i.ibb.co/FmYDhgB/fell.jpg"
         }
