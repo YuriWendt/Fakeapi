@@ -6,9 +6,9 @@
             "name": "Yuri",
             "nickname": "sor1nha",
             "birthday": "28_05_1998",
-            "person": {
-                "person_name": "Luffy",
-                "person_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
             },
             "game": {
                 "game_name": "Valorant",
@@ -20,8 +20,13 @@
             "id": 2,
             "name": "Bruno",
             "nickname": "trace'11",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
-                "gamename": "Valorant",
+                "game_name": "Valorant",
                 "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
             "image": "https://i.ibb.co/vjg4bLz/bng.jpg"
@@ -30,6 +35,11 @@
             "id": 3,
             "name": "Breno",
             "nickname": "Brenin the God",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "Valorant",
                 "game_image": "https://ibb.co/7CxZHnS"
@@ -40,6 +50,11 @@
             "id": 4,
             "name": "Rodrigo",
             "nickname": "Matsu",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "CSGO",
                 "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
@@ -50,6 +65,11 @@
             "id": 5,
             "name": "Felipe",
             "nickname": "Jukk",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "AION",
                 "game_image": "https://i.ibb.co/jWJ8wWH/Aion_logo.png"
@@ -60,6 +80,11 @@
             "id": 6,
             "name": "Caio",
             "nickname": "napz",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "Valorant",
                 "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
@@ -70,6 +95,11 @@
             "id": 7,
             "name": "Gabriel",
             "nickname": "Marshal",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "League of Legends",
                 "game_image": "https://i.ibb.co/LzjgZjm/league.png"
@@ -80,6 +110,11 @@
             "id": 8,
             "name": "Kauan",
             "nickname": "Kauanzera",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "COD WARZONE",
                 "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
@@ -90,6 +125,11 @@
             "id": 9,
             "name": "Jader",
             "nickname": "Jaderzin",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "AION",
                 "game_image": "https://i.ibb.co/jWJ8wWH/Aion_logo.png"
@@ -100,6 +140,11 @@
             "id": 10,
             "name": "Vitor",
             "nickname": "Vitao",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "COD WARZONE",
                 "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
@@ -110,6 +155,11 @@
             "id": 11,
             "name": "Luis",
             "nickname": "Todd",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "COD WARZONE",
                 "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
@@ -120,6 +170,11 @@
             "id": 12,
             "name": "Gabriel",
             "nickname": "Sozo",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "League of Legends",
                 "game_image": "https://i.ibb.co/LzjgZjm/league.png"
@@ -130,6 +185,11 @@
             "id": 13,
             "name": "João",
             "nickname": "Pedrosa",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "CSGO",
                 "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
@@ -140,6 +200,11 @@
             "id": 13,
             "name": "Felix",
             "nickname": "Fellzera",
+            "birthday": "28_05_1998",
+            "character": {
+                "character_name": "Luffy",
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+            },
             "game": {
                 "game_name": "Valorant",
                 "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
