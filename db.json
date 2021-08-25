@@ -1,11 +1,11 @@
 {
-"results": [ {
-    "members": [
+
+    "member": [
         {
             "id": 1,
             "name": "Yuri",
             "nickname": "sor1nha",
-            "favgame": {
+            "game": {
                 "id": 1,
                 "name": "Valorant",
                 "image": "https://i.ibb.co/fFVybkX/valorant.png"
@@ -16,7 +16,7 @@
             "id": 2,
             "name": "Bruno",
             "nickname": "trace'11",
-            "favgame": {
+            "game": {
                 "id": 1,
                 "name": "Valorant",
                 "image": "https://i.ibb.co/fFVybkX/valorant.png"
@@ -27,7 +27,7 @@
             "id": 3,
             "name": "Breno",
             "nickname": "Brenin the God",
-            "favgame": {
+            "game": {
                 "id": 1,
                 "name": "Valorant",
                 "image": "https://ibb.co/7CxZHnS"
@@ -38,7 +38,7 @@
             "id": 4,
             "name": "Rodrigo",
             "nickname": "Matsu",
-            "favgame": {
+            "game": {
                 "id": 2,
                 "name": "CSGO",
                 "image": "https://i.ibb.co/5FYn5n0/csgo.png"
@@ -49,7 +49,7 @@
             "id": 5,
             "name": "Felipe",
             "nickname": "Jukk",
-            "favgame": {
+            "game": {
                 "id": 5,
                 "name": "AION",
                 "image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
@@ -60,7 +60,7 @@
             "id": 6,
             "name": "Caio",
             "nickname": "napz",
-            "favgame": {
+            "game": {
                 "id": 1,
                 "name": "Valorant",
                 "image": "https://i.ibb.co/fFVybkX/valorant.png"
@@ -71,7 +71,7 @@
             "id": 7,
             "name": "Gabriel",
             "nickname": "Marshal",
-            "favgame": {
+            "game": {
                 "id": 3,
                 "name": "League of Legends",
                 "image": "https://i.ibb.co/LzjgZjm/league.png"
@@ -82,7 +82,7 @@
             "id": 8,
             "name": "Kauan",
             "nickname": "Kauanzera",
-            "favgame": {
+            "game": {
                 "id": 4,
                 "name": "COD WARZONE",
                 "image": "https://i.ibb.co/PDPf9n8/cod.png"
@@ -93,7 +93,7 @@
             "id": 9,
             "name": "Jader",
             "nickname": "Jaderzin",
-            "favgame": {
+            "game": {
                 "id": 5,
                 "name": "AION",
                 "image": "https://i.ibb.co/jWJ8wWH/Aion-logo.png"
@@ -104,7 +104,7 @@
             "id": 10,
             "name": "Vitor",
             "nickname": "Vitao",
-            "favgame": {
+            "game": {
                 "id": 4,
                 "name": "COD WARZONE",
                 "image": "https://i.ibb.co/PDPf9n8/cod.png"
@@ -115,7 +115,7 @@
             "id": 11,
             "name": "Luis",
             "nickname": "Todd",
-            "favgame": {
+            "game": {
                 "id": 4,
                 "name": "COD WARZONE",
                 "image": "https://i.ibb.co/PDPf9n8/cod.png"
@@ -126,7 +126,7 @@
             "id": 12,
             "name": "Gabriel",
             "nickname": "Sozo",
-            "favgame": {
+            "game": {
                 "id": 3,
                 "name": "League of Legends",
                 "image": "https://i.ibb.co/LzjgZjm/league.png"
@@ -137,7 +137,7 @@
             "id": 13,
             "name": "João",
             "nickname": "Pedrosa",
-            "favgame": {
+            "game": {
                 "id": 2,
                 "name": "CSGO",
                 "image": "https://i.ibb.co/5FYn5n0/csgo.png"
@@ -148,19 +148,12 @@
             "id": 13,
             "name": "Felix",
             "nickname": "Fellzera",
-            "favgame": {
+            "game": {
                 "id": 1,
                 "name": "Valorant",
                 "image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
             "image": "https://i.ibb.co/FmYDhgB/fell.jpg"
         }
-    ],
-    "encontro": [
-    {
-        
-    }
     ]
-}
-]
 }
