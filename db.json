@@ -5,14 +5,15 @@
             "id": 1,
             "name": "Yuri",
             "nickname": "sor1nha",
-            "birthday": "28_05_1998",
+            "birthday": "28-05-1998",
+            "serie": "Dragon Ball",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Sora",
+                "character_image": "https://i.ibb.co/7G5n2dK/sora.jpg"
             },
             "game": {
-                "game_name": "Valorant",
-                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "Kingdom Hearts",
+                "game_image": "https://i.ibb.co/h7tdtjM/kingdom-hearts.png"
             },
             "image": "https://simgbb.com/avatar/HnpPZt301K51.jpg"
         },
@@ -20,14 +21,15 @@
             "id": 2,
             "name": "Bruno",
             "nickname": "trace'11",
-            "birthday": "28_05_1998",
+            "birthday": "06-09-1991",
+            "serie": "DARK / Interestelar / Death Note",
             "character": {
-                "character_name": "Luffy",
+                "character_name": "Gojō Satoru ",
                 "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
             },
             "game": {
-                "game_name": "Valorant",
-                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "CSGO",
+                "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
             },
             "image": "https://i.ibb.co/vjg4bLz/bng.jpg"
         },
@@ -50,10 +52,11 @@
             "id": 4,
             "name": "Rodrigo",
             "nickname": "Matsu",
-            "birthday": "28_05_1998",
+            "birthday": "18-05-1996",
+            "serie": "How I Met Your Mother / Point Break / Bleach",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Harvey Specter",
+                "character_image": "https://i.ibb.co/nfsYGxZ/harvey.jpg"
             },
             "game": {
                 "game_name": "CSGO",
@@ -65,10 +68,11 @@
             "id": 5,
             "name": "Felipe",
             "nickname": "Jukk",
-            "birthday": "28_05_1998",
+            "birthday": "06-05-1996",
+            "serie": "Dark / Interstellar / Naruto",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Itachi Uchiha",
+                "character_image": "https://i.ibb.co/tQXQNK6/itachi.jpg"
             },
             "game": {
                 "game_name": "AION",
@@ -80,136 +84,65 @@
             "id": 6,
             "name": "Caio",
             "nickname": "napz",
-            "birthday": "28_05_1998",
+            "birthday": "02-02-1998",
+            "serie": "Westworld",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Kay/O",
+                "character_image": "https://i.ibb.co/pvtCQzt/kayo.png"
             },
             "game": {
                 "game_name": "Valorant",
                 "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
             },
-            "image": "https://uploads.duality.gg/profiles/pictures/0e705e67_4400_4efd_b654_8678622526d1/md.jpg"
+            "image": "https://i.ibb.co/7QQ20XJ/napz.jpg"
         },
         {
             "id": 7,
             "name": "Gabriel",
-            "nickname": "Marshal",
-            "birthday": "28_05_1998",
+            "nickname": "Marshalsql",
+            "birthday": "09-01-1998",
+            "serie": "Justified",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Charada",
+                "character_image": "https://i.ibb.co/SRQpJpX/Charada.png"
             },
             "game": {
-                "game_name": "League of Legends",
-                "game_image": "https://i.ibb.co/LzjgZjm/league.png"
+                "game_name": "Battlefield 4",
+                "game_image": "https://i.ibb.co/rxVjKMm/bf4.png"
             },
             "image": "https://i.ibb.co/bNFpWMh/marshal.jpg"
         },
         {
             "id": 8,
-            "name": "Kauan",
-            "nickname": "Kauanzera",
-            "birthday": "28_05_1998",
+            "name": "Wellington",
+            "nickname": "finalinGOD",
+            "birthday": "15-02-1993",
+            "serie": "Kimetsu no Yaba / Senhor dos Anéis / Hobbit",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
-            },
-            "game": {
-                "game_name": "COD WARZONE",
-                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
-            },
-            "image": "https://i.ibb.co/Pzh0GCt/kauan.jpg"
-        },
-        {
-            "id": 9,
-            "name": "Jader",
-            "nickname": "Jaderzin",
-            "birthday": "28_05_1998",
-            "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
-            },
-            "game": {
-                "game_name": "AION",
-                "game_image": "https://i.ibb.co/jWJ8wWH/Aion_logo.png"
-            },
-            "image": "https://i.ibb.co/VTZ36fr/jader.jpg"
-        },
-        {
-            "id": 10,
-            "name": "Vitor",
-            "nickname": "Vitao",
-            "birthday": "28_05_1998",
-            "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
-            },
-            "game": {
-                "game_name": "COD WARZONE",
-                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
-            },
-            "image": "https://i.ibb.co/1fbxn2C/vitao.jpg"
-        },
-        {
-            "id": 11,
-            "name": "Luis",
-            "nickname": "Todd",
-            "birthday": "28_05_1998",
-            "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
-            },
-            "game": {
-                "game_name": "COD WARZONE",
-                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
-            },
-            "image": "https://i.ibb.co/vDxmRM2/todd.jpg"
-        },
-        {
-            "id": 12,
-            "name": "Gabriel",
-            "nickname": "Sozo",
-            "birthday": "28_05_1998",
-            "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
-            },
-            "game": {
-                "game_name": "League of Legends",
-                "game_image": "https://i.ibb.co/LzjgZjm/league.png"
-            },
-            "image": "https://i.ibb.co/whXtMLW/sozo.jpg"
-        },
-        {
-            "id": 13,
-            "name": "João",
-            "nickname": "Pedrosa",
-            "birthday": "28_05_1998",
-            "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Aragorn",
+                "character_image": "https://i.ibb.co/x2RfK53/aragorn.jpg"
             },
             "game": {
                 "game_name": "CSGO",
                 "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
             },
-            "image": "https://i.ibb.co/cQSyjwD/pedrosa.jpg"
+            "image": "https://i.ibb.co/fGRMczs/finale.jpg"
         },
         {
-            "id": 13,
-            "name": "Felix",
-            "nickname": "Fellzera",
-            "birthday": "28_05_1998",
+            "id": 7,
+            "name": "Kelvin",
+            "nickname": "NiV",
+            "birthday": "30-09-1998",
+            "serie": "Prison Break",
             "character": {
-                "character_name": "Luffy",
-                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
+                "character_name": "Vegeta",
+                "character_image": "https://i.ibb.co/xJNNYkh/vegeta.png"
             },
             "game": {
-                "game_name": "Valorant",
-                "game_image": "https://i.ibb.co/fFVybkX/valorant.png"
+                "game_name": "COD WARZONE",
+                "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
-            "image": "https://i.ibb.co/FmYDhgB/fell.jpg"
+            "image": "https://i.ibb.co/sQpNPBv/niv.jpg"
         }
     ]
 }
