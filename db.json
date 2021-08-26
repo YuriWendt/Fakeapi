@@ -25,7 +25,7 @@
             "serie": "DARK / Interestelar / Death Note",
             "character": {
                 "character_name": "Gojō Satoru ",
-                "character_image": "https://i.ibb.co/9HS6tX8/gojo.jpg"
+                "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
             },
             "game": {
                 "game_name": "CSGO",
@@ -35,11 +35,12 @@
         },
         {
             "id": 3,
-            "name": "Breno",
-            "nickname": "Brenin the God",
-            "birthday": "28_05_1998",
+            "name": "Kauan",
+            "nickname": "Kauanzera",
+            "birthday": "24-08-1999",
+            "serie": "Lupin",
             "character": {
-                "character_name": "Luffy",
+                "character_name": "None",
                 "character_image": "https://i.redd.it/tgnwy4m2ju741.jpg"
             },
             "game": {
@@ -143,6 +144,22 @@
                 "game_image": "https://i.ibb.co/PDPf9n8/cod.png"
             },
             "image": "https://i.ibb.co/sQpNPBv/niv.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Vinicius",
+            "nickname": "Vinixc",
+            "birthday": "01-02-2000",
+            "serie": "Dragon Ball Z",
+            "character": {
+                "character_name": "Goku",
+                "character_image": "https://i.ibb.co/qdT61dq/goku.png"
+            },
+            "game": {
+                "game_name": "DarkSouls 3",
+                "game_image": "https://i.ibb.co/PM4ckmd/ds3.png"
+            },
+            "image": "https://avatars.githubusercontent.com/u/48804586?v=4"
         }
     ]
 }
