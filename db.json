@@ -130,7 +130,7 @@
             "image": "https://i.ibb.co/fGRMczs/finale.jpg"
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Kelvin",
             "nickname": "NiV",
             "birthday": "30-09-1998",
@@ -146,7 +146,7 @@
             "image": "https://i.ibb.co/sQpNPBv/niv.jpg"
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "Vinicius",
             "nickname": "Vinixc",
             "birthday": "01-02-2000",
@@ -160,6 +160,22 @@
                 "game_image": "https://i.ibb.co/PM4ckmd/ds3.png"
             },
             "image": "https://avatars.githubusercontent.com/u/48804586?v=4"
+        },
+         {
+            "id": 11,
+            "name": "Leonardo",
+            "nickname": "srK",
+            "birthday": "13-10-1997",
+            "serie": "Hungry Heart: Wild Striker",
+            "character": {
+                "character_name": "Ryoma Echizen",
+                "character_image": "https://i.ibb.co/DQsj15d/ryoma.jpg"
+            },
+            "game": {
+                "game_name": "CSGO",
+                "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
+            },
+            "image": "https://i.ibb.co/Sy63s6Q/leosrk.jpg"
         }
     ]
 }
