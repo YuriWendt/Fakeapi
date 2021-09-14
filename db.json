@@ -176,6 +176,22 @@
                 "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
             },
             "image": "https://i.ibb.co/Sy63s6Q/leosrk.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Gabriel",
+            "nickname": "sozo",
+            "birthday": "13-10-1997",
+            "serie": "Dark",
+            "character": {
+                "character_name": "Tyrion Lanniste",
+                "character_image": "https://ibb.co/vvGfMNS.jpg"
+            },
+            "game": {
+                "game_name": "CSGO",
+                "game_image": "https://i.ibb.co/5FYn5n0/csgo.png"
+            },
+            "image": "https://i.ibb.co/whXtMLW/sozo.jpg"
         }
     ]
 }
